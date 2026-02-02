@@ -71,7 +71,7 @@
                 @Html.DisplayFor(modelItem => item.Comentario)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Reserva.ReservaId)
+                @item.Reserva.Fecha
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.PagoId">Edit</a> |

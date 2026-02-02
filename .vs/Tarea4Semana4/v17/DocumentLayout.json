@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\views\\pagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:views\\pagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\views\\servicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:views\\servicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\migrations\\20260202012337_simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|solutionrelative:migrations\\20260202012337_simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DCEC7A8-DB47-4737-B508-C58DC60DAAAC}|Tarea4Semana4.csproj|c:\\users\\sahil\\desktop\\sayuri_cerna\\universidad\\repositorios\\repositorios6\\tarea4semana4\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,18 +72,96 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Pagos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pagos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Pagos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pagos\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T01:35:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T01:31:55.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Servicios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Servicios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T01:31:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:30:16.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260202012337_simple.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Migrations\\20260202012337_simple.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260202012337_simple.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Migrations\\20260202012337_simple.cs",
+              "RelativeToolTip": "Migrations\\20260202012337_simple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:23:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T01:21:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Servicios\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Servicios\\Index.cshtml",
               "ToolTip": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Servicios\\Index.cshtml",
               "RelativeToolTip": "Views\\Servicios\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAE0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-02T00:52:14.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Servicios\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Servicios\\Delete.cshtml",
@@ -67,12 +169,11 @@
               "RelativeToolTip": "Views\\Servicios\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T00:50:31.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T00:50:31.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Views\\Servicios\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Servicios\\Details.cshtml",
@@ -80,12 +181,11 @@
               "RelativeToolTip": "Views\\Servicios\\Details.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T00:47:48.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T00:47:48.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ServiciosController.cs",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Controllers\\ServiciosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
@@ -93,12 +193,11 @@
               "RelativeToolTip": "Controllers\\ServiciosController.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAowKQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T00:40:20.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T00:40:20.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\sayuri_cerna\\universidad\\repositorios\\RepositorioS6\\Tarea4Semana4\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
@@ -106,8 +205,7 @@
               "RelativeToolTip": "Controllers\\ClientesController.cs",
               "ViewState": "AgIAAJ4AAAAAAAAAAAAAAEgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T00:40:07.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T00:40:07.328Z"
             }
           ]
         }
